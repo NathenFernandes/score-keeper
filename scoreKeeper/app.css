@@ -1,0 +1,11 @@
+.body{
+    background-color: bisque;
+}
+.large-text {
+    font-size: 1.15em;
+}
+.custom-checkbox label {
+    transform: scale(1.5);
+    cursor: pointer;
+    margin-left: 100px;
+}
